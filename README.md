@@ -1,7 +1,7 @@
 # Desafio caixa da lanchonete DB - Jean Gonçalves Lima - Solução
 
 ## DESCRIÇÃO
-Este repositório contém a solução para o Desafio Jean Gonçalves Lima, que envolve a implementação de um sistema para cálculo de valores de compras em uma lanchonete. A solução foi desenvolvida em JavaScript e utiliza as tecnologias Node.js e Jest para testes.
+Este repositório contém a solução para o Desafio do Programa Estágio Start DB, que envolve a implementação de um sistema para cálculo de valores de compras em uma lanchonete. A solução foi desenvolvida em JavaScript e utiliza as tecnologias Node.js e Jest para testes.
 
 ## COMO TESTAR A SOLUÇÃO
 Para testar a solução em sua própria máquina, siga os passos abaixo:
